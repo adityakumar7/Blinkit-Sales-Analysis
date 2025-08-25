@@ -1,5 +1,5 @@
 # Blinkit-Sales-Analysis
-To conduct a comprehensive analysis of Blinkit's sales performance to identify key insights and opportunities for optimization using various KPIs and visualizations using SQL.
+Conduct a comprehensive analysis of Blinkit's sales performance to identify key insights and opportunities for optimization using various KPIs and visualizations using SQL.
 
-Tools used: SQl Server Management Studio
+<h3>Tools used:</h3> SQl Server Management Studio
  
